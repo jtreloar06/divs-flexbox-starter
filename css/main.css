@@ -122,8 +122,13 @@ body {
   color: #fff;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
+  background-color: #535353;
   height: 300px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+p {
+	padding: 5%;
 }
 
 
